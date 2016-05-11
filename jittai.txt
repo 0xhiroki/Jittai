@@ -330,7 +330,7 @@ Larry PageとSergey Brinは、大学院で研究したいと考えていたの�
 
 困ったPageとBrinは、Stanford大学のDavid Cheriton教授に相談する。CheritonがSun Microsystemsの創業者のAndy Bechtolsheim (https://en.wikipedia.org/wiki/Andy_Bechtolsheim)に会うように勧める(「ザ・サーチ」第４章グーグル誕生による)。
 
-Bechtolsheimは、初めてあったPageとBrinに、彼らの要求の２倍の$100K(1200万円)のAngel投資を申し出る。これが、1998年８月である。まだ、会社の形式になっていない。 
+Bechtolsheimは、初めてあったPageとBrinに、彼らの要求の２倍の$100K(1200万円)のAngel投資を申し出る。これが、1998年８月である。まだ、会社の形式になっていない。
 
 その後、David Cheriton教授も投資し、Ram Shriramも、そしてAmazon.comのCEOのJeff BezosもAngel投資を行い、4人で合計$1M(1億2000万円)の資金調達を実行した(https://www.crunchbase.com/organization/google#/entity)。
 
@@ -636,7 +636,7 @@ Zenefitsは、29の投資家から、4のRoundで、$583.6M(700億円)の資金�
 
 このように資金調達を見てみると、Palantir Technologiesの$1.8Bも凄いが、Uberは$8.21Bで、4.5倍もある。Airbnbも$3.89Bで、2倍以上ある。
 
-22. UberのGarrett Campは、大資産家、Serial Entrepreneur、Angel 
+22. UberのGarrett Campは、大資産家、Serial Entrepreneur、Angel
 
 Uber(https://www.uber.com)は、自動車配車web site及び配車アプリの会社である。現在、58カ国・地域、300都市でサービスを実施している。
 
@@ -685,7 +685,7 @@ Garrett Campの起業にも、ある種のMafiaが存在するように感じる
 
 Garrett Campの資産は、$6B(7200億円)とWIKIPEDIAにはある。Garrett Campは、自ら12社に14投資を行っている。Angel Investorでもある (https://www.crunchbase.com/person/garrett-camp#/entity)。
 
-23. UberのTravis Kalanickも大資産家、Serial Entrepreneur、Angel 
+23. UberのTravis Kalanickも大資産家、Serial Entrepreneur、Angel
 
 Travis Kalanickは、UberのCo-founderであり、現在もCEOである。
 
@@ -1222,5 +1222,3 @@ Matt CohlerのBenchmarkでの投資は、InstagramのSeries AとBが有名であ
 ついでに、いうと、Twitterの本「
 
 37. AppleのBeats Electronics買収
-
-
