@@ -1,5 +1,4 @@
 # Jittai
-## 目次
 
 0. <a href="https://github.com/hirokihori/Jittai/blob/master/intro.md">イントロダクション</a>
 1. <a href="https://github.com/hirokihori/Jittai/blob/master/01.md">想像を超えるシリコンバレーの実態を理解しよう</a>
