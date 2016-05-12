@@ -2,47 +2,52 @@
 
 ### 目次
 
-0. <a href="https://github.com/hirokihori/Jittai/blob/master/intro.md">イントロダクション</a>
-1. <a href="https://github.com/hirokihori/Jittai/blob/master/01.md">想像を超えるシリコンバレーの実態を理解しよう</a>
-2. <a href="https://github.com/hirokihori/Jittai/blob/master/02.md">Venture Capitalについて--- Andreessen Horowitzがすごい</a>
-3. <a href="https://github.com/hirokihori/Jittai/blob/master/03.md">$1B以上投資資金を持つVenture Capitalが多数Sand Hill Roadに</a>
-4. <a href="https://github.com/hirokihori/Jittai/blob/master/04.md">Angel Investorは人数が非常に多く、Seed Stageの主役投資家</a>
-5. <a href="https://github.com/hirokihori/Jittai/blob/master/05.md">Super Angelが最近活躍を始め、影響力が大きくなっている</a>
-6. <a href="https://github.com/hirokihori/Jittai/blob/master/06.md">PayPal Mafiaはコミュニティ、投資案件を共有</a>
-7. <a href="https://github.com/hirokihori/Jittai/blob/master/07.md">Lean Startupとは、最近生まれた起業のやり方で、非常に効率的</a>
-8. <a href="https://github.com/hirokihori/Jittai/blob/master/08.md">Accelerator；Y Combinatorが登場、ここから大きな変化が始まった</a>
-9. <a href="https://github.com/hirokihori/Jittai/blob/master/09.md">Googleがシリコンバレーの中心であり、競争を激化させている</a>
-10. <a href="https://github.com/hirokihori/Jittai/blob/master/10.md">GoogleはStanford大学の教授がAngelを紹介して、起業に至る</a>
-11. <a href="https://github.com/hirokihori/Jittai/blob/master/11.md">Stanford大学のDavid Cheriton教授は、Billionaireの大金持ち</a>
-12. <a href="https://github.com/hirokihori/Jittai/blob/master/12.md">Ram Shriramは、GoogleのBoard of Directorに</a>
-13. <a href="https://github.com/hirokihori/Jittai/blob/master/13.md">GoogleのIPOと買収がシリコンバレーのeco systemを支えている</a>
-14. <a href="https://github.com/hirokihori/Jittai/blob/master/14.md">GoogleのAndroidを買収、その後</a>
-15. <a href="https://github.com/hirokihori/Jittai/blob/master/15.md">Facebookの時代が来ようとしてる？</a>
-16. <a href="https://github.com/hirokihori/Jittai/blob/master/16.md">FacebookにおけるSean Parkerの果たした役割は大きかった！</a>
-17. <a href="https://github.com/hirokihori/Jittai/blob/master/17.md">Facebookより早くスタートし、順調だったFriendster</a>
-18. <a href="https://github.com/hirokihori/Jittai/blob/master/18.md">SNS最大ユーザー数だったMySpaceに何があったのか？</a>
-19. <a href="https://github.com/hirokihori/Jittai/blob/master/19.md">FacebookにPeter Thielが出資し、役員に就任</a>
-20. <a href="https://github.com/hirokihori/Jittai/blob/master/20.md">Peter ThielとPalantir Technologiesの資金調達の凄さ</a>
-21. <a href="https://github.com/hirokihori/Jittai/blob/master/21.md">inc.comの2015年の5大資金調達の記事も凄い</a>
-22. <a href="https://github.com/hirokihori/Jittai/blob/master/22.md">UberのGarrett Campは、大資産家、Serial Entrepreneur、Angel</a>
-23. <a href="https://github.com/hirokihori/Jittai/blob/master/23.md">UberのTravis Kalanickも大資産家、Serial Entrepreneur、Angel</a>
-24. <a href="https://github.com/hirokihori/Jittai/blob/master/24.md">Airbnbの初期の投資家がすごい</a>
-25. <a href="https://github.com/hirokihori/Jittai/blob/master/25.md">Googleの最近の買収企業と投資企業</a>
-26. <a href="https://github.com/hirokihori/Jittai/blob/master/26.md">日本語のWIKIPEDIAに紹介されているGoogleの買収案件</a>
-27. <a href="https://github.com/hirokihori/Jittai/blob/master/27.md">英語のwikipediaのGoogleの買収情報</a>
-28. <a href="https://github.com/hirokihori/Jittai/blob/master/28.md">Googleの買収したAdMobのOmar HamouiはVenture Capitalistに</a>
-29. <a href="https://github.com/hirokihori/Jittai/blob/master/29.md">Facebookの資金調達</a>
-30. <a href="https://github.com/hirokihori/Jittai/blob/master/30.md">Facebookに投資したAccelのJim Breyer</a>
-31. <a href="https://github.com/hirokihori/Jittai/blob/master/31.md">Facebookの買収</a>
-32. <a href="https://github.com/hirokihori/Jittai/blob/master/32.md">InstagramとKevin Systrom</a>
-33. <a href="https://github.com/hirokihori/Jittai/blob/master/33.md">WhatsAppとそのFounderたち</a>
-34. <a href="https://github.com/hirokihori/Jittai/blob/master/34.md">Oculus VRは、KickStarterで資金調達</a>
-35. <a href="https://github.com/hirokihori/Jittai/blob/master/35.md">FacebookのCo-Founderたち</a>
-36. <a href="https://github.com/hirokihori/Jittai/blob/master/36.md">Dustin MoskovitzとAsanaの設立</a>
-37. <a href="https://github.com/hirokihori/Jittai/blob/master/37.md">FacebookのEduardo Saverin</a>
-38. <a href="https://github.com/hirokihori/Jittai/blob/master/38.md">Matt CohlerはコンサルタントからStartup、Venture Capitalistに</a>
-39. <a href="https://github.com/hirokihori/Jittai/blob/master/39.md">伊藤穣一とDigital Garageの投資先</a>
-40. <a href="https://github.com/hirokihori/Jittai/blob/master/40.md">AppleのBeats Electronics買収</a>
+0. [イントロダクション](Reports/intro.md)
+1. [想像を超えるシリコンバレーの実態を理解しよう](Reports/01.md)
+2. [Venture Capitalについて--- Andreessen Horowitzがすごい](Reports/02.md)
+3. [$1B以上投資資金を持つVenture Capitalが多数Sand Hill Roadに](Reports/03.md)
+4. [Angel Investorは人数が非常に多く、Seed Stageの主役投資家](Reports/04.md)
+5. [Super Angelが最近活躍を始め、影響力が大きくなっている](Reports/05.md)
+6. [PayPal Mafiaはコミュニティ、投資案件を共有](Reports/06.md)
+7. [Lean Startupとは、最近生まれた起業のやり方で、非常に効率的](Reports/07.md)
+8. [Accelerator；Y Combinatorが登場、ここから大きな変化が始まった](Reports/08.md)
+9. [Googleがシリコンバレーの中心であり、競争を激化させている](Reports/09.md)
+10. [GoogleはStanford大学の教授がAngelを紹介して、起業に至る](Reports/10.md)
+11. [Stanford大学のDavid Cheriton教授は、Billionaireの大金持ち](Reports/11.md)
+12. [Ram Shriramは、GoogleのBoard of Directorに](Reports/12.md)
+13. [GoogleのIPOと買収がシリコンバレーのeco systemを支えている](Reports/13.md)
+14. [GoogleのAndroidを買収、その後](Reports/14.md)
+15. [Facebookの時代が来ようとしてる？](Reports/15.md)
+16. [FacebookにおけるSean Parkerの果たした役割は大きかった！](Reports/16.md)
+17. [Facebookより早くスタートし、順調だったFriendster](Reports/17.md)
+18. [SNS最大ユーザー数だったMySpaceに何があったのか？](Reports/18.md)
+19. [FacebookにPeter Thielが出資し、役員に就任](Reports/19.md)
+20. [Peter ThielとPalantir Technologiesの資金調達の凄さ](Reports/20.md)
+21. [inc.comの2015年の5大資金調達の記事も凄い](Reports/21.md)
+22. [UberのGarrett Campは、大資産家、Serial Entrepreneur、Angel](Reports/22.md)
+23. [UberのTravis Kalanickも大資産家、Serial Entrepreneur、Angel](Reports/23.md)
+24. [Airbnbの初期の投資家がすごい](Reports/24.md)
+25. [Googleの最近の買収企業と投資企業](Reports/25.md)
+26. [日本語のWIKIPEDIAに紹介されているGoogleの買収案件](Reports/26.md)
+27. [英語のwikipediaのGoogleの買収情報](Reports/27.md)
+28. [Googleの買収したAdMobのOmar HamouiはVenture Capitalistに](Reports/28.md)
+29. [Facebookの資金調達](Reports/29.md)
+30. [Facebookに投資したAccelのJim Breyer](Reports/30.md)
+31. [Facebookの買収](Reports/31.md)
+32. [InstagramとKevin Systrom](Reports/32.md)
+33. [WhatsAppとそのFounderたち](Reports/33.md)
+34. [Oculus VRは、KickStarterで資金調達](Reports/34.md)
+35. [FacebookのCo-Founderたち](Reports/35.md)
+36. [Dustin MoskovitzとAsanaの設立](Reports/36.md)
+37. [FacebookのEduardo Saverin](Reports/37.md)
+38. [Matt CohlerはコンサルタントからStartup、Venture Capitalistに](Reports/38.md)
+39. [伊藤穣一とDigital Garageの投資先](Reports/39.md)
+40. [AppleのBeats Electronics買収](Reports/40.md)
+
+### 関連人物
+
+##### [堀弘貴 - Hiroki Hori](http://hirokihori.com/about)  
+1991年8月14日生まれ。早稲田大学中退後、スタートアップ[Origami](https://origami.com)にてソフトウェアエンジニアを経験したのち、2014年8月に渡米。渡米後、[Rarejob](https://www.rarejob.com/)の新規事業部にてリードiOSエンジニアとして[Chattyプロジェクト](https://www.rarejob.com/chatty_intro/)を担当。2015年にはLAのスタートアップ[Whisper](https://whisper.sh/)にてソフトウェアエンジニアインターン、2015年11月には、[YCombinator](https://www.ycombinator.com)出身の韓国発スタートアップ、[Memebox Corporation](https://us.memebox.com)にてソフトウェアエンジニアインターンを経験。2016年1月より同社にて、リードiOSエンジニアとして同社のiOSアプリ開発を担当している。このレポート執筆者の岡村氏とは、2015年6月から2016年6月までの1年間、[米国コンコード市](http://bit.ly/1rHn7lb)にある一軒家に他の同居人、Satoru Sasozaki、Shota James Morikawa、と一緒に住んでいた。
 
 ### 使用許可
 
