@@ -1,5 +1,7 @@
 # Jittai
 
+### 目次
+
 0. <a href="https://github.com/hirokihori/Jittai/blob/master/intro.md">イントロダクション</a>
 1. <a href="https://github.com/hirokihori/Jittai/blob/master/01.md">想像を超えるシリコンバレーの実態を理解しよう</a>
 2. <a href="https://github.com/hirokihori/Jittai/blob/master/02.md">Venture Capitalについて--- Andreessen Horowitzがすごい</a>
@@ -42,4 +44,9 @@
 39. <a href="https://github.com/hirokihori/Jittai/blob/master/39.md">伊藤穣一とDigital Garageの投資先</a>
 40. <a href="https://github.com/hirokihori/Jittai/blob/master/40.md">AppleのBeats Electronics買収</a>
 
-<a href="https://github.com/hirokihori/Jittai/blob/master/LICENSE">License</a>
+### 使用許可
+
+個々のレポートはクリエイティブ・コモンズ表示3.0の条件の下で、自由に使用することが出来ます。  
+詳しくは以下のリンクをご覧ください。
+
+[Creative Commons — 表示 3.0 アメリカ合衆国 — CC BY 3.0 US](http://creativecommons.org/licenses/by/3.0/us/deed.ja)
