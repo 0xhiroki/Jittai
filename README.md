@@ -47,11 +47,13 @@
 ### 関連人物
 
 ##### [堀弘貴 - Hiroki Hori](http://hirokihori.com/about)  
-1991年8月14日生まれ。早稲田大学中退後、スタートアップ[Origami](https://origami.com)にてソフトウェアエンジニアを経験したのち、2014年8月に渡米。渡米後、[Rarejob](https://www.rarejob.com/)の新規事業部にてリードiOSエンジニアとして[Chattyプロジェクト](https://www.rarejob.com/chatty_intro/)を担当。2015年にはLAのスタートアップ[Whisper](https://whisper.sh/)にてソフトウェアエンジニアインターン、2015年11月には、[YCombinator](https://www.ycombinator.com)出身の韓国発スタートアップ、[Memebox Corporation](https://us.memebox.com)にてソフトウェアエンジニアインターンを経験。2016年1月より同社にて、リードiOSエンジニアとして同社のiOSアプリ開発を担当している。このレポート執筆者の岡村氏とは、2015年6月から2016年6月までの1年間、[米国コンコード市](http://bit.ly/1rHn7lb)にある一軒家に他の同居人、Satoru Sasozaki、Shota James Morikawa、と一緒に住んでいた。
+1991年8月14日生まれ。早稲田大学創造理工学部機械工学科中退後、スタートアップ[Origami](https://origami.com)にてソフトウェアエンジニアを経験したのち、2014年8月に渡米。渡米後、[Rarejob](https://www.rarejob.com/)の新規事業部にてリードiOSエンジニアとして[Chattyプロジェクト](https://www.rarejob.com/chatty_intro/)を担当。2015年にはLAのスタートアップ[Whisper](https://whisper.sh/)にてソフトウェアエンジニアインターン、2015年11月には、[YCombinator](https://www.ycombinator.com)出身の韓国発スタートアップ、[Memebox Corporation](https://us.memebox.com)にてソフトウェアエンジニアインターンを経験。2016年1月より同社にて、リードiOSエンジニアとして同社のiOSアプリ開発を担当している。このレポート執筆者の岡村氏とは、2015年6月から2016年6月までの1年間、[米国コンコード市](http://bit.ly/1rHn7lb)にある一軒家に他の同居人、Satoru Sasozaki、Shota James Morikawa、と一緒に住んでいた。
 
 ##### [哘崎悟 - Satoru Sasozaki](http://satorusasozaki.com/)
 1992年1月14日生まれ。2014年2月、関西学院大学文学部卒業間近にシリコンバレーを訪れ、現地のスタートアップとその文化に刺激を受け、シリコンバレーでソフトウェアエンジニアになることに決め同大学を卒業。しかし、英語が話せずプログラミング経験はゼロ、数学は中学レベル。準備が必要だと思い[２年制大学](http://www.dvc.edu/)に入学することに。単語を発話するだけの英語で未知のコンピューターサイエンスを勉強し始めるが案の定壁にぶち当たる。そんな中、偶然同じ大学に通っていた[堀弘貴](http://hirokihori.com/about/)に出会い勝手に師匠と仰ぐ。youtubeで予習し録音した授業を家に帰って何度も聞き返すがそれでもわからず師匠に手助けをもらい少しずつ理解し始めコンピューターサイエンスの面白さに目覚める。渡米2年目に突入しソフトウェアエンジニアとして仕事を得るべく奮闘中。執筆者岡村氏からは生きる指針とワインの飲み方を教わる。岡村氏が住んでいたコンコードシェアハウスの２代目管理人。大阪市西成区出身。
 
+##### [森川照太 - Shota Jamese Morikawa](https://twitter.com/james0710)
+1991年7月10日生まれ。早稲田大学国際教養学部中退。大学在学中East VenturesでAssociateとして務め、ポートフォリオの株式会社ハイパーエイトにジョイン、取締役を務める。2014年10月、所持金10万円で単身ベイエリアに渡米。Scrum VenturesにてAnalystとして務めた後、サンフランシスコで定期的に会ってお世話になっていた岡村氏とコンコードでのシェアハウスを起案し、ひろきとさとると共に立ち上げる。2015年9月、ST Bookingの創業と共に拠点をアジアに移し、現在は東京をベースに台湾や東南アジアを行き来しながら事業を立ち上げている。ハワイ出身、兵庫育ち（芦屋・御影・西宮）。
 
 ### 使用許可
 
